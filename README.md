@@ -1,5 +1,6 @@
 
-## Available Scripts
+
+## TicTacToe-React
 
 In the project directory, you can run:
 
